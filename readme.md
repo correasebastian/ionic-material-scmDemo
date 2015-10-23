@@ -17,6 +17,6 @@ you will need:
  **clone the repo **
 
 open nodejs and from  the root folder run these commands .
->-npm install
->-bower install
+>- npm install
+>- bower install
 >- ionic serve --lab
