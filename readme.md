@@ -14,9 +14,9 @@ you will need:
 >- nodejs https://nodejs.org/en/
 >- ionic http://ionicframework.com/
 
-> **clone the repo :**
+ **clone the repo **
 
 open nodejs and from  the root folder run these commands .
->npm install
-> bower install
-> ionic serve --lab
+>-npm install
+>-bower install
+>- ionic serve --lab
